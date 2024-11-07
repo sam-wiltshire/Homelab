@@ -2,13 +2,13 @@
 Homelab stacks, templates, and more fun resources! This is a *work in progress*. I still have a ton to update and add.
 
 ## Navigation
-* [Apps](https://github.com/sam-wiltshire/Homelab/tree/main/apps) - List of all the apps and services.
-* [Docker](https://github.com/sam-wiltshire/Homelab/tree/main/docker) - Docker compose templates
-* [Media Server](https://github.com/sam-wiltshire/Homelab/tree/main/media) - Jellyfin.
-* [Server Monitoring](https://github.com/sam-wiltshire/Homelab/tree/main/monitoring) - WIP
-* [Storage](https://github.com/sam-wiltshire/Homelab/tree/main/storage) - Current Storage and Backup Solution.
-* [Proxy Managment](https://github.com/sam-wiltshire/Homelab/tree/main/proxy) - NGINX Proxy Manager
-* [Virtual Machine](https://github.com/sam-wiltshire/Homelab/tree/main/virtual.machine) - VM
+* [Apps](https://github.com/sam-wiltshire/Homelab/tree/master/apps) - List of all the apps and services.
+* [Docker](https://github.com/sam-wiltshire/Homelab/tree/master/docker) - Docker compose templates
+* [Media Server](https://github.com/sam-wiltshire/Homelab/tree/mmasterain/media) - Jellyfin.
+* [Server Monitoring](https://github.com/sam-wiltshire/Homelab/tree/master/monitoring) - WIP
+* [Storage](https://github.com/sam-wiltshire/Homelab/tree/master/storage) - Current Storage and Backup Solution.
+* [Proxy Managment](https://github.com/sam-wiltshire/Homelab/tree/master/proxy) - NGINX Proxy Manager
+* [Virtual Machine](https://github.com/sam-wiltshire/Homelab/tree/master/virtual.machine) - VM
 
 ## Hardware
 ### Servers and NAS
